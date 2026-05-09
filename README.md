@@ -67,7 +67,6 @@ Live-Chat/
 
 ## 📸 Screenshots
 
-*(Add UI screenshots here for better presentation)*
 
 ---
 
